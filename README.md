@@ -6,7 +6,7 @@
 
 A free, open-source tool for UK contractors. No sign-up, no data collected, runs entirely in your browser.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_It_Now-c49a2a?style=for-the-badge)](https://vaughnbotha.github.io/compliance-cost-calculator/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_It_Now-c49a2a?style=for-the-badge)](https://vaughnai2023.github.io/compliance-cost-calculator/)
 [![Licence](https://img.shields.io/badge/Licence-MIT-0f1729?style=for-the-badge)](LICENSE)
 [![Built With](https://img.shields.io/badge/Built_With-HTML_CSS_JS-2a3654?style=for-the-badge)](#tech-stack)
 
@@ -291,7 +291,7 @@ Plans start at £149/month. [Book a free setup call](https://www.contractorvault
 No setup needed. Clone the repo and open the file.
 
 ```bash
-git clone https://github.com/vaughnbotha/compliance-cost-calculator.git
+git clone https://github.com/Vaughnai2023/compliance-cost-calculator.git
 cd compliance-cost-calculator
 open index.html
 ```
