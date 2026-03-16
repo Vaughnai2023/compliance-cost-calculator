@@ -1,0 +1,12 @@
+# Remotion cached Chrome binary
+.remotion/
+
+# Video build scripts and temp files
+videos/
+
+# Temp recording artifacts
+.temp-recording/
+
+# OS files
+.DS_Store
+Thumbs.db
